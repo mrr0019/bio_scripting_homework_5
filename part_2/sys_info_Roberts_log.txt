@@ -26,3 +26,29 @@ usasbh   pts/27       2020-02-26 09:29 (wan-215-227.usouthal.edu)
 usaafh   pts/28       2020-02-26 11:32 (wan-215-56.usouthal.edu)
 System uptime: 
  14:18:02 up 70 days, 21:42, 24 users,  load average: 0.15, 0.41, 0.43
+Current date and time: Wed Feb 26 15:30:01 CST 2020
+Currently logged on users: 
+uahkxc   pts/1        2020-02-18 06:57 (136.53.61.46)
+uahpxb   pts/4        2020-02-26 11:54 (146.229.236.147)
+ualprj   pts/5        2020-02-25 08:00 (130.160.124.4)
+aubcls93 pts/6        2020-02-26 08:13 (071-012-119-006.res.spectrum.com)
+aublmg   pts/8        2020-02-25 13:12 (131.204.120.55)
+aubcls63 pts/9        2020-02-26 15:03 (131.204.254.85)
+ualprj   pts/10       2020-02-25 18:26 (130.160.124.4)
+aubcls157 pts/11       2020-02-26 13:16 (131.204.254.87)
+aubcls123 pts/12       2020-02-26 15:06 (24-196-25-103.dhcp.leds.al.charter.com)
+aubcls98 pts/13       2020-02-26 12:07 (131.204.254.84)
+usadxh   pts/15       2020-02-18 09:58 (wan-215-227.usouthal.edu)
+uabcls03 pts/16       2020-02-26 12:09 (138.26.210.57)
+uahpxb   pts/17       2020-02-26 11:28 (146.229.236.147)
+ualljq   pts/18       2020-02-26 15:12 (130.160.125.1)
+ualmab   pts/19       2020-02-24 09:46 (130.160.124.4)
+ualpss   pts/20       2020-02-24 09:47 (130.160.125.1)
+ualmab   pts/21       2020-02-24 11:26 (130.160.124.4)
+ualcls30 pts/22       2020-02-26 09:27 (130.160.57.1)
+aubmes   pts/23       2020-02-21 11:44 (131.204.254.86)
+usatxz   pts/24       2020-02-26 12:39 (wan-215-98.usouthal.edu)
+aubcls20 pts/26       2020-02-26 12:43 (68-113-88-31.dhcp.leds.al.charter.com)
+usasbh   pts/27       2020-02-26 09:29 (wan-215-227.usouthal.edu)
+System uptime: 
+ 15:30:01 up 70 days, 22:54, 22 users,  load average: 0.44, 0.45, 0.45
