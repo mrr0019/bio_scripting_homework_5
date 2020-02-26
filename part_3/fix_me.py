@@ -39,7 +39,7 @@ print("a // b =",
         )
 
 remainder = a % b
-print("a % b =", remainder, ", which is a", type(remainder))
+print("a % b =", remainder, ", which is a ", type(remainder))
 
 power = a ** b
 print("a ** b =", power, ", which is a", type(power))
@@ -74,7 +74,7 @@ floor_quotient = a // b
 print("a // b =", floor_quotient, ", which is a", type(floor_quotient))
 
 remainder = a % b
-print("a % b = ", remainder ", which is a", type(remainder))
+print("a % b = ", remainder, ", which is a", type(remainder))
 
 power = a ** b
 print("a ** b =",
