@@ -1,11 +1,13 @@
 #! /bin/bash/python3
 
 # Reading data from the user's input
-int(a = input("Enter a : "))
+a = input("Enter a : ")
+int(a)
 
 print("You entered", a, "which is a", type(a))
 
-int(b = input("Enter b : "))
+b = input("Enter b : ")
+int(b)
 
 print("You entered", b, "which is a", type(b))
 
